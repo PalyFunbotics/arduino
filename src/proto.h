@@ -1,0 +1,10 @@
+void icurrent(int pin);
+void ocurrent(int pin);
+void lighton(int pin);
+void lightoff(int pin);
+void wait(float sec);
+void blink(int pin);
+void Forward(float sec);
+void Reverse(float sec);
+void Right(float deg);
+void Left(float deg);
