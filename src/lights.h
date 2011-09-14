@@ -1,15 +1,15 @@
 #ifndef LIGHTS_H_
 #define LIGHTS_H_
 
-void lighton() {
+void lighton(int pin) {
 
 }
 
-void lightoff() {
+void lightoff(int pin) {
 
 }
 
-void blink(float sec) {
+void blink(int pin, float sec) {
 
 }
 
