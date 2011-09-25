@@ -5,6 +5,8 @@
 #include "src/motion.c"
 
 int main() {
-  printf("Hello, world!\n");
+  Forward(2.0);
+  wait(3.0);
+  blink(4, 3.0);
   return 0;
 }
