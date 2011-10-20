@@ -1,2 +1,2 @@
 all:
-	gcc includes.c -o main
+	gcc $(FFILE).c -o $(FFILE) -I src

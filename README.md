@@ -2,6 +2,9 @@
 
 Hey you campers! You're going to be programming robots!
 
+Compile using:
+`make FFILE=basename` where your file is `basename.c`
+
 ####Some basic stuff:
 1. `Forward(1);`
     * You just made the robot go forward for one second!
